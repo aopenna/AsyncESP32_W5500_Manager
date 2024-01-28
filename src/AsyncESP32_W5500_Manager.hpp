@@ -88,7 +88,7 @@
 
 #include <ESPAsyncWebServer.h>
 
-#include <ESPAsyncDNSServer.h>
+#include <AsyncDNSServer_ESP32_W5500.h>
 
 #include <memory>
 #undef min
